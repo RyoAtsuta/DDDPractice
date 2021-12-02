@@ -52,31 +52,31 @@ $ tree
 ```
 $ make exec
 
-=================== start ==========================
---------
+=================== list users ==========================
 ID: 1
 Name: Igarashi Yuki
---------
+
 ID: 2
 Name: Nakamura Ryota
---------
+
 ID: 3
 Name: Shibata Emi
-=================== end ==========================
---------
+
+=================== end of list users ==========================
 ID: 1
 Name: Igarashi Yuki
---------
+
 ID: 1
 Name: Kobayashi Yuki
-=================== start ==========================
---------
+
+=================== list users ==========================
 ID: 2
 Name: Nakamura Ryota
---------
+
 ID: 3
 Name: Shibata Emi
-=================== end ==========================
+
+=================== end of list users ==========================
 ERROR: Name 'Kimura Saburou' can not be created
 ```
 
