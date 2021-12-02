@@ -48,7 +48,7 @@ $ tree
 └── sources.txt
 ```
 
-# How to Run
+## How to Run
 ```
 $ make exec
 
